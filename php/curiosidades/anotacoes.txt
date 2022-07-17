@@ -1,0 +1,3 @@
+str_replace() pode ser utilizado para pesquisa de arrays dentro de arrays.
+
+exemplo: (array('a, p'), array('apple', 'pear'), $text)
